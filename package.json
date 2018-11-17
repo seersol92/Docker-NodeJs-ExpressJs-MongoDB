@@ -1,0 +1,30 @@
+{
+  "name": "docker-nodejs-expressjs-mongodb",
+  "version": "1.0.0",
+  "description": "Sample app using node,express,mongodb with docker env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seersol92/Docker-NodeJs-ExpressJs-MongoDB.git"
+  },
+  "keywords": [
+    "Docker",
+    "expressjs",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "seersol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seersol92/Docker-NodeJs-ExpressJs-MongoDB/issues"
+  },
+  "homepage": "https://github.com/seersol92/Docker-NodeJs-ExpressJs-MongoDB#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12"
+  }
+}
