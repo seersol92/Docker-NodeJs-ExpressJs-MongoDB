@@ -1,4 +1,4 @@
-# Docker Node EXPRESS MongoDB Example
+# Docker Node Express MongoDB Example
 
 > A NodeJs, ExpressJs and MongoDB app with docker configuration
 
